@@ -11,7 +11,7 @@ Using the value iteration algorithm, state value function was estimated, and opt
 Additionally, **reward shaping** was used to improve agent's behaviour. 
 
 * **Visualizations**    
-<img src="img/val_func.png" width="350"> <img src="img/policy.png" width="350"> <img src="img/reward_shaping.png" width="350">
+<img src="img/val_func.png" width="300"> <img src="img/policy.png" width="300"> <img src="img/reward_shaping.png" width="300">
 
 
 
